@@ -1,7 +1,7 @@
 ---
 title: Interact
 publishDate: 2023-06-30 00:00:00
-img: portfolio/assets/couleur3.jpg
+img: /mon-portfolio/assets/couleur3.jpg
 img_alt: mockup de l'application Interact
 description: création d'une application pour Couleur3
 

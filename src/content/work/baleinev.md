@@ -1,7 +1,7 @@
 ---
 title: Baleinev
 publishDate: 2023-12-01 00:00:00
-img: /assets/flyer_marche_noel.png
+img: /mon-portfolio/assets/flyer_marche_noel.png
 img_alt: flyer marche de noel Baleinev
 description: festival de la HEIG-VD, graphisme
 

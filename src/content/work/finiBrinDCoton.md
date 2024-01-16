@@ -1,7 +1,7 @@
 ---
 title: Fifi Brin d'Coton
 publishDate: 2024-01-01 00:00:00
-img: /assets/logo_fifi.png
+img: /mon-portfolio/assets/logo_fifi.png
 img_alt: logo fifi brin d'coton
 description: création d'un logo pour une créatrice
 

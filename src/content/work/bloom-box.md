@@ -1,7 +1,7 @@
 ---
 title: Addiction Vaud
 publishDate: 2023-12-01 00:00:00
-img: /assets/addiction_vaud.png
+img: /mon-portfolio/assets/addiction_vaud.png
 img_alt: flyer Addiction Vaud, deux versions
 description: création de contenus pour l'association Addiction Vaud|
 
