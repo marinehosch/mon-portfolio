@@ -28,8 +28,7 @@ const projects = (await getCollection("blog")).sort(
         {
           projects.map((article: any) => (
             <li>
-              <ArticlePreview article={article} /> // Add missing import for
-              'ArticlePreview'
+              <ArticlePreview article={article} />
             </li>
           ))
         }
@@ -38,3 +37,4 @@ const projects = (await getCollection("blog")).sort(
     <ContactCTA />
   </div>
 </BaseLayout>
+---
