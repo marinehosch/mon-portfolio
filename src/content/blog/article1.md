@@ -1,8 +1,8 @@
 ---
 title: Veille
 publishDate: 2023-12-01 00:00:00
-img:
-img_alt: info
+img: /mon-portfolio/assets/dataviz3.jpeg
+img_alt: image d'illustration adobe stock
 description: Description de mon système de veille
 
 tags:
