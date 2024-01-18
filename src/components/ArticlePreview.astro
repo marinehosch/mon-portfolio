@@ -8,7 +8,7 @@ interface Props {
 const { data, slug } = Astro.props.article;
 ---
 
-<a class="card" href={`/mon-portfolio/articles/${slug}`}>
+<a class="card" href={`/mon-portfolio/blog/${slug}`}>
   <span class="title">{data.title}</span>
   <img
     src={data.img}
