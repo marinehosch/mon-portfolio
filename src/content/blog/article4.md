@@ -20,6 +20,7 @@ L'importance croissante de la visualisation des données dans la prise de décis
 
 Source :
 Publié sur ScienceDirect, cet article est issu d'une source académique de premier plan, offrant une analyse rigoureuse et détaillée. Les auteurs, experts dans le domaine de la visualisation de données, apportent une perspective riche et fondée sur des recherches approfondies, assurant la crédibilité et la pertinence des informations présentées.
+[https://www.sciencedirect.com/science/article/pii/S2666389920301896](le lien ici)
 
 Points Forts :
 

@@ -21,6 +21,7 @@ La nécessité de représenter visuellement les données pour faciliter la compr
 
 Source :
 Publié sur le site de NCBI, cet article est issu d'une source académique reconnue, garantissant une analyse précise et fiable. La publication offre un aperçu détaillé de la visualisation des données, enrichi par des connaissances expertes dans le domaine, ce qui en fait une ressource inestimable pour les professionnels, les chercheurs, et les étudiants intéressés par cette discipline.
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303292/](le lien ici)
 
 Points Forts :
 

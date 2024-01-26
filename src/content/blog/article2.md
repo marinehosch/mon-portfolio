@@ -15,6 +15,7 @@ tags:
 
 Introduction :
 Dans le domaine en constante évolution de la technologie web, Three.js se démarque comme une bibliothèque JavaScript puissante et polyvalente, conçue pour créer et afficher des graphiques 3D animés dans un navigateur web. Dans cet article, je vais partager mon parcours d'expérimentation avec Three.js, en partant de zéro, en suivant le tutoriel officiel disponible sur Three.js Documentation. Je décrirai les étapes, les défis rencontrés, et les solutions trouvées, ainsi que mes impressions et résultats obtenus grâce à cette technologie fascinante.
+[https://threejs.org/docs/index.html#manual/en/introduction/Installation](le lien ici)
 
 Le Choix de Three.js :
 Three.js a attiré mon attention en raison de sa promesse d'intégrer facilement des graphiques 3D réalistes dans des applications web. La capacité de fonctionner sans plugins additionnels, en utilisant uniquement le WebGL, rend cette bibliothèque non seulement pratique mais aussi puissante et accessible.

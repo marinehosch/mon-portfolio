@@ -20,6 +20,7 @@ L'importance croissante de la visualisation des données dans le monde des affai
 
 Source :
 L'article est publié par Harvard Business Review, une source reconnue pour sa contribution précieuse dans le domaine des affaires et du management. Les auteurs de l'article, experts dans le domaine de la visualisation de données, apportent une perspective éclairée et des conseils pratiques basés sur des recherches approfondies et des études de cas concrètes.
+[https://hbr.org/2016/06/visualizations-that-really-work](le lien ici)
 
 Points Forts :
 
