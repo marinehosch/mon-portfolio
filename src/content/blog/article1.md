@@ -20,10 +20,10 @@ Les canaux peuvent être très variés. Certains ont des blogs personnels sur le
 
 De plus, je peux ensuite utiliser les connexions des personnes suivies pour découvrir d’autres profils intéressants.
 
-Lors de ma veille, j’ai retenu les profils suivants:
+<!-- Lors de ma veille, j’ai retenu les profils suivants:
 
 - Petar Stupar
 
 Senior en Dataviz, il allie ses connaissances poussées en sciences (préciser) et la visualisation de données. Je l’ai découvert via son site : [https://www.petarstupar.com](https://www.petarstupar.com/) mais son travail montrait uniquement le rendu final sans aucune information sur les langages de programmation utilisé. Je me suis particulièrement intéressée aux travaux en 3D. Je suis donc allée voir son GitHub j’ai ainsi pu voir de nouvelles technologies pour faire de la visualisation de données.
 
-- blup
+- blup -->
