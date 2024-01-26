@@ -6,7 +6,7 @@ img_alt: image d'illustration adobe stock
 description:
 
 tags:
-  - système de veille
+  - Veille 
   - visualisation de données
 ---
 

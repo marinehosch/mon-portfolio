@@ -6,8 +6,9 @@ img_alt: image d'illustration adobe stock
 description:
 
 tags:
-  - système de veille
   - visualisation de données
+  - 3D
+  - expérimentation
 ---
 
 ## Découverte de Three.js, la 3D avec javascript
